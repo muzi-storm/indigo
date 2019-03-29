@@ -56,10 +56,10 @@ email: myemail@gmail.com
 
 authors:
     johndoe:
-        name: John Doe
+        name: Paul Storm
         bio: A Man who travels the world eating noodles
         external-image: false
-        picture: assets/images/profile.jpg
+        picture: assets/images/likesundaylikerain.jpg
         twitter: johndoe
     jamesfoster:
         name: James Foster
