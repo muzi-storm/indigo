@@ -1,6 +1,6 @@
 # main text of home
 name: Paul Storm
-bio: A Man who travels the world eating noodles
+bio: Taking the good we find
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -34,25 +34,25 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
+#facebook: myfacebook
 twitter: mytwitter
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
-# linkedin: mylinkedin
+linkedin: https://www.linkedin.com/in/paul-storm-6b191687/
 # youtube: myyoutube
 # spotify: myspotify
-github: mygithub
+github: muzi-storm
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-medium: medium
-weibo: weibo
+#medium: medium
+weibo: muzi-storm
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: myemail@gmail.com
+email: paul.w.storm@biola.edu
 
 authors:
     johndoe:
