@@ -10,6 +10,12 @@
             <svg class="icon icon-twitter"><use xlink:href="#icon-twitter"></use></svg>
         </a>
     {% endif %}
+    
+    {% if site.weibo %}
+        <a class="link" data-title="weibo.com/{{ site.weibo }}" href="http://weibo.com/{{ site.weibo }}" target="_blank">
+            <svg class="icon icon-weibo"><use xlink:href="#icon-weibo"></use></svg>
+        </a>
+    {% endif %}
 
     {% if site.google %}
         <a class="link" data-title="plus.google.com/+{{ site.google }}" href="http://plus.google.com/+{{ site.google }}" target="_blank">
