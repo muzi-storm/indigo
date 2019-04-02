@@ -38,6 +38,10 @@ layout: page
 
 {% include bdsharebuttonbox.html %}
 
+{% if site.show-author %}
+    {% include author.html %}
+{% endif %}
+
 {% if site.related %}
     {% include related.html %}
 {% endif %}
