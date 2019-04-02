@@ -4,6 +4,12 @@
             <svg class="icon icon-facebook"><use xlink:href="#icon-facebook"></use></svg>
         </a>
     {% endif %}
+    
+    {% if site.zhihu %}
+        <a class="link" data-title="zhihu.com/{{ site.zhihu }}" href="http://zhihu.com/{{ site.zhihu }}" target="_blank">
+            <svg class="icon icon-zhihu"><use xlink:href="#icon-zhi"></use></svg>
+        </a>
+    {% endif %}
 
     {% if site.twitter %}
         <a class="link" data-title="twitter.com/{{ site.twitter }}" href="http://twitter.com/{{ site.twitter }}" target="_blank">
