@@ -2,7 +2,7 @@
 title: "Chinese Culture Reading List"
 layout: post
 date: 2019-04-08 13:07
-image: https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjtzvvXlsHhAhUBKK0KHaoLAcMQjRx6BAgBEAU&url=https%3A%2F%2Fizihun.com%2Fyishuziti-335757.html&psig=AOvVaw16Sfw7W18CS8lO8TS17ehu&ust=1554836286242611
+image: assests/images/zhongguowenhua1.jpg
 headerImage: true
 projects: Chinese Culture Course
 tag:
