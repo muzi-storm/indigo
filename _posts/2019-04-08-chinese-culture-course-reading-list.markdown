@@ -2,8 +2,8 @@
 title: "Chinese Culture Reading List"
 layout: post
 date: 2019-04-08 13:07
-image: /assets/images/markdown.jpg
-headerImage: false
+image: /assets/images/zhongguowenhua.jpg
+headerImage: true
 projects: Chinese Culture Course
 tag:
 - Chinese Culture Course
