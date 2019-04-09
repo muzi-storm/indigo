@@ -2,7 +2,7 @@
 title: "Markdown Extra Components"
 layout: post
 date: 2016-02-24 22:48
-image: /assets/images/markdown.jpg
+image: https://d33wubrfki0l68.cloudfront.net/541d89b49cfeb577c7ba61491899adeac8bdf4d0/2826b/assets/images/dillinger.png
 headerImage: true
 projects: markdown
 tag:
