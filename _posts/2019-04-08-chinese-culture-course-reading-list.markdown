@@ -38,12 +38,13 @@ General<br/>
 <br/>
 Calligraphy and Painting
 11. Chinese Calligraphy
-12. Beyond Representation
-\
-Music
-13. 中国文化全知道  - 音乐\
+12. Beyond Representation<br/>
+<br/>
+Music<br/>
+<br/>
+13. 中国文化全知道  - 音乐<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. 音乐的起源 - 音乐荟萃，现代中国音乐
-\
+
 Theater
 14. 中国文化全知道 - 戏剧\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. 戏曲概论 - 戏曲欣赏
