@@ -34,7 +34,7 @@ Philosophy
 The Arts
 <br/>
 General<br/>
-10. The Arts of China
+10. The Arts of China<br/>
 <br/>
 Calligraphy and Painting
 11. Chinese Calligraphy
