@@ -20,11 +20,11 @@ Philosophy
 2. The Daodejing
 3. The Analects
 4. The Mencius
-5. The Five Classics
-\&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. The I’Ching
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b. The Spring and Autumn Annals
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c. The Book of Rites
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;d. The Book of Odes
+5. The Five Classics\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. The I’Ching\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b. The Spring and Autumn Annals\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c. The Book of Rites\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;d. The Book of Odes\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;e. The Book of Documents
 6. Selections V: Buddhism and Daoism
 &nbsp;&nbsp;&nbsp;&nbsp;a. And I add something here
