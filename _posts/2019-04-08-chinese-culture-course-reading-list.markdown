@@ -58,27 +58,27 @@ Novels<br/>
 16. Journey to the West<br/>
 17. Water Margin<br/>
 18. The Story of the Stone<br/>
-<br/><br/>
-Letters, Essays and Autobiographies
-19. 3 Kingdoms and Northern and Southern Dynasties Letters\
+<br/>
+Letters, Essays and Autobiographies<br/>
+19. 3 Kingdoms and Northern and Southern Dynasties Letters<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. Yang Yun\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b. Xi Kang\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c. Tao Qian\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;d. Kong Zhigui
-20. 3 Kingdoms and Northern and Southern Dynasties Essays\
+20. 3 Kingdoms and Northern and Southern Dynasties Essays<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. Lu Chi
-21. Tang Essays\
+21. Tang Essays<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. Han Yu\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b. Liu Zongyuan
-22. Song Essays\
+22. Song Essays<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. Ouyang Xiu\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b. Su shi
-23. Qing Essays\
+23. Qing Essays<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. Li Yu
-24. Qing Autobiographies\
+24. Qing Autobiographies<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. Shen Fu\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b. Shen Congwen
-25. Modern Essays\
+25. Modern Essays<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. Wang Tie
 
 Fiction
