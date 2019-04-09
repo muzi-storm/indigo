@@ -33,35 +33,35 @@ description: A reading list for an introductory course on Chinese culture
 
 #### The Arts
 
-General<br/>
+*General*<br/>
 10. The Arts of China<br/>
 <br/>
-Calligraphy and Painting<br/>
+*Calligraphy and Painting*<br/>
 11. Chinese Calligraphy<br/>
 12. Beyond Representation<br/>
 <br/>
-Music<br/>
+*Music*<br/>
 <br/>
 13. 中国文化全知道  - 音乐<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. 音乐的起源 - 音乐荟萃，现代中国音乐
 <br/><br/>
-Theater<br/>
+*Theater*<br/>
 14. 中国文化全知道 - 戏剧<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. 戏曲概论 - 戏曲欣赏
 <br/>
 
 #### Literature
 
-General<br/>
+*General*<br/>
 15. 中国文化全知道 - 文学
 <br/><br/>
-Novels<br/>
+*Novels*<br/>
 15. The Three Kingdoms<br/>
 16. Journey to the West<br/>
 17. Water Margin<br/>
 18. The Story of the Stone<br/>
 <br/>
-Letters, Essays and Autobiographies<br/>
+*Letters, Essays and Autobiographies*<br/>
 19. 3 Kingdoms and Northern and Southern Dynasties Letters<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. Yang Yun<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b. Xi Kang<br/>
@@ -83,7 +83,7 @@ Letters, Essays and Autobiographies<br/>
 25. Modern Essays<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. Wang Tie<br/>
 <br/>
-Fiction<br/>
+*Fiction*<br/>
 26. Tang Short Stories<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. Yuan Chen<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b. Bai Xingjian<br/>
