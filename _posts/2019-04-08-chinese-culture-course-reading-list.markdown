@@ -30,11 +30,9 @@ description: A reading list for an introductory course on Chinese culture
 7. Selections VI-VII: Song and Tang Thought - Neo-Confucianism
 8. Selections VIII-IX: Ming and Qing Contributions
 9. Selections X-XI: Modern Chinese Thought
-<br/>
 
 #### The Arts
 
-<br/>
 <br/>
 General<br/>
 10. The Arts of China<br/>
@@ -51,11 +49,11 @@ Music<br/>
 Theater<br/>
 14. 中国文化全知道 - 戏剧<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. 戏曲概论 - 戏曲欣赏
-<br/><br/>
+<br/>
 
 #### Literature
 
-<br/><br/>
+<br/>
 General<br/>
 15. 中国文化全知道 - 文学
 <br/><br/>
@@ -111,7 +109,6 @@ Fiction<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c. Eileen Chang<br/>
 32. Modern Drama<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. Yao Shennong<br/>
-<br/>
 
 #### History
 
