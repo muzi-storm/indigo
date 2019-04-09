@@ -20,7 +20,7 @@ Philosophy
 2. The Daodejing
 3. The Analects
 4. The Mencius
-5. The Five Classics
+5. The Five Classics\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. The I’Ching
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b. The Spring and Autumn Annals
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c. The Book of Rites
