@@ -30,26 +30,26 @@ Philosophy
 7. Selections VI-VII: Song and Tang Thought - Neo-Confucianism
 8. Selections VIII-IX: Ming and Qing Contributions
 9. Selections X-XI: Modern Chinese Thought
-
+\
 The Arts
-
-General
+\
+General\
 10. The Arts of China
-
-Calligraphy and Painting
+\
+Calligraphy and Painting\
 11. Chinese Calligraphy
 12. Beyond Representation
-
+\
 Music
-13. 中国文化全知道  - 音乐
-	a. 音乐的起源 - 音乐荟萃，现代中国音乐
-
+13. 中国文化全知道  - 音乐\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. 音乐的起源 - 音乐荟萃，现代中国音乐
+\
 Theater
 14. 中国文化全知道 - 戏剧\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. 戏曲概论 - 戏曲欣赏
-
+\
 Literature
-
+\
 General
 15. 中国文化全知道 - 文学
 
