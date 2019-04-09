@@ -27,7 +27,6 @@ Philosophy
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;d. The Book of Odes\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;e. The Book of Documents
 6. Selections V: Buddhism and Daoism
-&nbsp;&nbsp;&nbsp;&nbsp;a. And I add something here
 7. Selections VI-VII: Song and Tang Thought - Neo-Confucianism
 8. Selections VIII-IX: Ming and Qing Contributions
 9. Selections X-XI: Modern Chinese Thought
@@ -46,8 +45,8 @@ Music
 	a. 音乐的起源 - 音乐荟萃，现代中国音乐
 
 Theater
-14. 中国文化全知道 - 戏剧
-	a. 戏曲概论 - 戏曲欣赏
+14. 中国文化全知道 - 戏剧\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. 戏曲概论 - 戏曲欣赏
 
 Literature
 
@@ -61,51 +60,51 @@ Novels
 18. The Story of the Stone
 
 Letters, Essays and Autobiographies
-19. 3 Kingdoms and Northern and Southern Dynasties Letters
-	a. Yang Yun
-	b. Xi Kang
-	c. Tao Qian
-	d. Kong Zhigui
-20. 3 Kingdoms and Northern and Southern Dynasties Essays
-	a. Lu Chi
-21. Tang Essays
-	a. Han Yu
-	b. Liu Zongyuan
-22. Song Essays
-	a. Ouyang Xiu
-	b. Su shi
-23. Qing Essays
-	a. Li Yu
-24. Qing Autobiographies
-	a. Shen Fu
-	b. Shen Congwen
-25. Modern Essays
-	a. Wang Tie
+19. 3 Kingdoms and Northern and Southern Dynasties Letters\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. Yang Yun\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b. Xi Kang\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c. Tao Qian\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;d. Kong Zhigui
+20. 3 Kingdoms and Northern and Southern Dynasties Essays\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. Lu Chi
+21. Tang Essays\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. Han Yu\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b. Liu Zongyuan
+22. Song Essays\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. Ouyang Xiu\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b. Su shi
+23. Qing Essays\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. Li Yu
+24. Qing Autobiographies\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. Shen Fu\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b. Shen Congwen
+25. Modern Essays\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. Wang Tie
 
 Fiction
-26. Tang Short Stories
-	a. Yuan Chen
-	b. Bai Xingjian
-	c. Du Guangting
-27. Yuan Theater
-	a. Kang Jinzhi
-	b. Ma Zhiyuan
-28. Ming Ghost Stories
-	a. The Jade Guanyin
-	b. Ch’ü Yu
-	c. Ma Zhongxi
-29. Ming Theater
-	a. Tang Xianzu
-30. Qing Fantasy
-	a. Pu Songling
-	b. Yuan Mei
-	c. Li Ruzhen
-31. Modern Short Stories
-	a. Lu Xun
-	b. Mao Dun
-	c. Eileen Chang
-32. Modern Drama
-	a. Yao Shennong
+26. Tang Short Stories\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. Yuan Chen\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b. Bai Xingjian\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c. Du Guangting
+27. Yuan Theater\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. Kang Jinzhi\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b. Ma Zhiyuan
+28. Ming Ghost Stories\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. The Jade Guanyin\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b. Ch’ü Yu\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c. Ma Zhongxi
+29. Ming Theater\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. Tang Xianzu
+30. Qing Fantasy\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. Pu Songling\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b. Yuan Mei\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c. Li Ruzhen
+31. Modern Short Stories\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. Lu Xun\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b. Mao Dun\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c. Eileen Chang
+32. Modern Drama\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. Yao Shennong
 
 History
 
