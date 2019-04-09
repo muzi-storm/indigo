@@ -46,7 +46,7 @@ Music<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. 音乐的起源 - 音乐荟萃，现代中国音乐
 <br/><br/>
 Theater<br/>
-14. 中国文化全知道 - 戏剧\
+14. 中国文化全知道 - 戏剧<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. 戏曲概论 - 戏曲欣赏
 <br/><br/>
 Literature<br/>
