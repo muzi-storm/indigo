@@ -12,9 +12,9 @@ author: paulstorm
 description: A reading list for an introductory course on Chinese culture
 ---
 
-Chinese Culture Reading List
+###Chinese Culture Reading List
 
-Philosophy
+####Philosophy
 
 1. Selections I-IV: The Five Classics through the Han Synthesis
 2. The Daodejing
@@ -31,7 +31,7 @@ Philosophy
 8. Selections VIII-IX: Ming and Qing Contributions
 9. Selections X-XI: Modern Chinese Thought
 <br/>
-The Arts<br/>
+####The Arts<br/>
 <br/>
 General<br/>
 10. The Arts of China<br/>
@@ -49,7 +49,7 @@ Theater<br/>
 14. 中国文化全知道 - 戏剧<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. 戏曲概论 - 戏曲欣赏
 <br/><br/>
-Literature<br/><br/>
+####Literature<br/><br/>
 General<br/>
 15. 中国文化全知道 - 文学
 <br/><br/>
@@ -106,7 +106,7 @@ Fiction<br/>
 32. Modern Drama<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. Yao Shennong<br/>
 <br/>
-History
+####History
 
 33. Sima Qian
 34. This Culture of Ours
@@ -116,7 +116,7 @@ History
 
 
 
-Poetry
+####Poetry
 
 38. Classical Chinese Poetry
 39. The Collected Songs of Cold Mountain
