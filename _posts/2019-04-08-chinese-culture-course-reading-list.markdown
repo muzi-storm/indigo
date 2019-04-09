@@ -50,14 +50,14 @@ Theater<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. 戏曲概论 - 戏曲欣赏
 <br/><br/>
 Literature<br/>
-General
+General<br/>
 15. 中国文化全知道 - 文学
 
-Novels
-15. The Three Kingdoms
-16. Journey to the West
-17. Water Margin
-18. The Story of the Stone
+Novels<br/>
+15. The Three Kingdoms<br/>
+16. Journey to the West<br/>
+17. Water Margin<br/>
+18. The Story of the Stone<br/>
 
 Letters, Essays and Autobiographies
 19. 3 Kingdoms and Northern and Southern Dynasties Letters\
