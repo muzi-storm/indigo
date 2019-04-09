@@ -31,7 +31,7 @@ Philosophy
 8. Selections VIII-IX: Ming and Qing Contributions
 9. Selections X-XI: Modern Chinese Thought
 <br/>
-The Arts
+The Arts<br/>
 <br/>
 General<br/>
 10. The Arts of China<br/>
