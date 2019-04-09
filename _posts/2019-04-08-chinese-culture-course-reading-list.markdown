@@ -33,7 +33,6 @@ description: A reading list for an introductory course on Chinese culture
 
 #### The Arts
 
-<br/>
 General<br/>
 10. The Arts of China<br/>
 <br/>
@@ -53,7 +52,6 @@ Theater<br/>
 
 #### Literature
 
-<br/>
 General<br/>
 15. 中国文化全知道 - 文学
 <br/><br/>
