@@ -30,10 +30,10 @@ Philosophy
 7. Selections VI-VII: Song and Tang Thought - Neo-Confucianism
 8. Selections VIII-IX: Ming and Qing Contributions
 9. Selections X-XI: Modern Chinese Thought
-\
+<br/>
 The Arts
-\
-General\
+<br/>
+General
 10. The Arts of China
 \
 Calligraphy and Painting\
