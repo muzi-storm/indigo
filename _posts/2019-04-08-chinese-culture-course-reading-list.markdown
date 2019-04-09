@@ -27,6 +27,7 @@ Philosophy
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;d. The Book of Odes
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;e. The Book of Documents
 6. Selections V: Buddhism and Daoism
+&nbsp;&nbsp;&nbsp;&nbsp;a. And I add something here
 7. Selections VI-VII: Song and Tang Thought - Neo-Confucianism
 8. Selections VIII-IX: Ming and Qing Contributions
 9. Selections X-XI: Modern Chinese Thought
