@@ -33,9 +33,9 @@ Philosophy
 <br/>
 The Arts
 <br/>
-General
+<br/>
+General\
 10. The Arts of China
-\
 Calligraphy and Painting\
 11. Chinese Calligraphy
 12. Beyond Representation
