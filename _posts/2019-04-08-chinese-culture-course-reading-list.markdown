@@ -36,8 +36,8 @@ The Arts<br/>
 General<br/>
 10. The Arts of China<br/>
 <br/>
-Calligraphy and Painting
-11. Chinese Calligraphy
+Calligraphy and Painting<br/>
+11. Chinese Calligraphy<br/>
 12. Beyond Representation<br/>
 <br/>
 Music<br/>
