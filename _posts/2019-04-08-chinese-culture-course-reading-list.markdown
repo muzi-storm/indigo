@@ -46,7 +46,7 @@ description: A reading list for an introductory course on Chinese culture
 <br/><br/>
 *Theater*<br/>
 14. 中国文化全知道 - 戏剧<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. 戏曲概论 - 戏曲欣赏
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. 戏曲概论 - 戏曲欣赏
 <br/>
 
 #### Literature
@@ -62,50 +62,50 @@ description: A reading list for an introductory course on Chinese culture
 <br/>
 *Letters, Essays and Autobiographies*<br/>
 19. 3 Kingdoms and Northern and Southern Dynasties Letters<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. Yang Yun<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b. Xi Kang<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c. Tao Qian<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;d. Kong Zhigui<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. Yang Yun<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b. Xi Kang<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c. Tao Qian<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;d. Kong Zhigui<br/>
 20. 3 Kingdoms and Northern and Southern Dynasties Essays<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. Lu Chi<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. Lu Chi<br/>
 21. Tang Essays<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. Han Yu<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b. Liu Zongyuan<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. Han Yu<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b. Liu Zongyuan<br/>
 22. Song Essays<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. Ouyang Xiu<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b. Su sh<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. Ouyang Xiu<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b. Su sh<br/>
 23. Qing Essays<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. Li Yu<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. Li Yu<br/>
 24. Qing Autobiographies<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. Shen Fu<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b. Shen Congwen<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. Shen Fu<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b. Shen Congwen<br/>
 25. Modern Essays<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. Wang Tie<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. Wang Tie<br/>
 <br/>
 *Fiction*<br/>
 26. Tang Short Stories<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. Yuan Chen<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b. Bai Xingjian<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c. Du Guangting<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. Yuan Chen<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b. Bai Xingjian<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c. Du Guangting<br/>
 27. Yuan Theater<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. Kang Jinzhi<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b. Ma Zhiyuan<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. Kang Jinzhi<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b. Ma Zhiyuan<br/>
 28. Ming Ghost Stories<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. The Jade Guanyin<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b. Ch’ü Yu<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c. Ma Zhongxi<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. The Jade Guanyin<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b. Ch’ü Yu<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c. Ma Zhongxi<br/>
 29. Ming Theater<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. Tang Xianzu<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. Tang Xianzu<br/>
 30. Qing Fantasy<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. Pu Songling<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b. Yuan Mei<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c. Li Ruzhen<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. Pu Songling<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b. Yuan Mei<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c. Li Ruzhen<br/>
 31. Modern Short Stories<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. Lu Xun<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b. Mao Dun<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c. Eileen Chang<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. Lu Xun<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b. Mao Dun<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c. Eileen Chang<br/>
 32. Modern Drama<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. Yao Shennong<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. Yao Shennong<br/>
 
 #### History
 
