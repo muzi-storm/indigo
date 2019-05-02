@@ -34,8 +34,8 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-#facebook: myfacebook
-twitter: muzistorm
+# facebook: myfacebook
+# twitter: muzistorm
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
@@ -48,7 +48,7 @@ github: muzi-storm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-#medium: medium
+# medium: medium
 zhihu: people/muzi-storm/
 weibo: u/6694702251
 # vimeo: myvimeo
