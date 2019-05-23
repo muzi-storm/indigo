@@ -3,7 +3,7 @@ title: "The Star Trek Fandom"
 layout: post
 date: 2019-05-23 12:34
 image: 
-headerImage: false
+headerImage: true
 projects: Data Science
 tag:
 - Data Science
